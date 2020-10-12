@@ -22,12 +22,12 @@ website: github.io/sustain
 website_full: https://ishehu.github.io/sustain
 github: trending
 twitter: @saliushehu
-tel: 0466141071
+tel: +358466141071
 tel_full: tel:+358 466141071
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address:
   street: Garpintie 7 C
-  postcode: 23800
+  postcode: '23800'
   city: Laitila
   country: Finland
 google_analytics: UA-69300817-1
